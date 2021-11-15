@@ -1,0 +1,10 @@
+.customButton {
+    padding: 5px 15px;
+    color: teal;
+    font-size: 14px;
+    background-color: transparent;
+    border: 1px solid teal;
+    border-radius: 2px;
+    cursor: pointer;
+    margin: 0 5px;
+}
